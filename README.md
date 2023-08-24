@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Huawei
+- 🔭 I’m currently working on a company focused on operating systems
 - 🌱 I’m currently learning linux, and proficient in memory management subsystem, specialized in heterogeneous memory management.
 - 💬 Ask me about: https://luochenglcs.github.io/about/
 - 📫 How to reach me: luochunsheng@ustc.edu
