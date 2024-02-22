@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a company focused on operating systems
-- 🌱 I’m currently learning linux, and proficient in memory management subsystem, specialized in heterogeneous memory management. Now I have become the community maintainer of numactl, welcome to communicate.
+- 🌱 I’m currently learning linux, and proficient in memory management subsystem, specialized in heterogeneous memory management. Now I have become one of the community numactl maintainer , welcome to communicate.
 - 💬 Ask me about: https://luochenglcs.github.io/about/
 - 📫 How to reach me: luochunsheng@ustc.edu
   
