@@ -4,10 +4,9 @@
 - 💬 Ask me about: https://luochenglcs.github.io/about/
 - 📫 How to reach me: luochunsheng@ustc.edu
 
-CV:
-February 2019 ~ December 2023, Huawei,  openEulerOS
-
-December 2023 ~ present,       Tencent, tencentOS.
+### CV:
+- 2019/2 ~ 2023/12,  Huawei,  openEulerOS
+- 2023/12 ~ present, Tencent, tencentOS.
 
 <!--
 **luochenglcs/luochenglcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
