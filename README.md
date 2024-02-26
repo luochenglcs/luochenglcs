@@ -6,6 +6,7 @@
 
 CV:
 February 2019 ~ December 2023, Huawei,  openEulerOS
+
 December 2023 ~ present,       Tencent, tencentOS.
 
 <!--
