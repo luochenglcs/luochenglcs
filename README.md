@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning linux, and proficient in memory management subsystem, specialized in heterogeneous memory management. Now I have become one of the community numactl maintainer , welcome to communicate.
 - 💬 Ask me about: https://luochenglcs.github.io/about/
 - 📫 How to reach me: luochunsheng@ustc.edu
-  
+
+CV:
+February 2019 ~ December 2023, Huawei,  openEulerOS
+December 2023 ~ present,       Tencent, tencentOS.
+
 <!--
 **luochenglcs/luochenglcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
