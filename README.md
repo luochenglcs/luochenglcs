@@ -7,7 +7,8 @@
 ### CV:
 - 2019/2 ~ 2023/12,  Huawei,  China Hangzhou, OpenEulerOS
 - 2023/12 ~ present, Tencent, China Shanghai, TencentOS.
-
+- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&background=FF52BC00&width=610&lines=Keep+it+simple+stupid" alt="Typing SVG" /></a>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=luochenglcs&include_all_commits=true" />
 </p>
