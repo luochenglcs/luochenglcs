@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?pause=500&width=850&lines=Keep+it+simple+stupid" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=850&lines=Keep+it+simple+stupid" alt="Typing SVG" /></a>
 
 ### Hi there 👋
 - 🔭 I’m currently working on a company focused on operating systems
