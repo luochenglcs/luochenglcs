@@ -1,13 +1,12 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a company focused on operating systems
-- 🌱 I’m currently learning linux, and proficient in memory management subsystem, specialized in heterogeneous memory management. Now I have become one of the community numactl and libhugetlbfs maintainer , welcome to communicate.
+- 🌱 I’m currently learning linux, and proficient in memory management subsystem, specialized in heterogeneous memory management. Now I have become one of the community [numactl](https://github.com/numactl/numactl/) and [libhugetlbfs](https://github.com/libhugetlbfs/libhugetlbfs) maintainer , welcome to communicate.
 - 💬 Ask me about: https://luochenglcs.github.io/about/
 - 📫 How to reach me: luochunsheng@ustc.edu
 
 ### CV:
 - 2019/2 ~ 2023/12,  Huawei,  China Hangzhou, OpenEulerOS
 - 2023/12 ~ present, Tencent, China Shanghai, TencentOS.
-- 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luochenglcs&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true">
