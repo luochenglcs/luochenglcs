@@ -8,7 +8,6 @@
 - 2019/2 ~ 2023/12,  Huawei,  China Hangzhou, OpenEulerOS
 - 2023/12 ~ present, Tencent, China Shanghai, TencentOS.
 
- [![Chunsheng Luo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luochenglcs&show_icons=true)](https://github.com/luochenglcs/github-readme-stats)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=luochenglcs&include_all_commits=true" />
 </p>
