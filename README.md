@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=850&lines=Keep+it+simple+stupid" alt="Typing SVG" /></a>
 ### Hi there 👋
 - 🔭 I’m currently working on a company focused on operating systems
-- 🌱 I’m currently learning linux, and proficient in memory management subsystem, specialized in heterogeneous memory management. Now I have become one of the community [numactl](https://github.com/numactl/numactl/) and [libhugetlbfs](https://github.com/libhugetlbfs/libhugetlbfs) maintainer , welcome to communicate.
+- 🌱 I’m currently learning linux, and proficient in memory management subsystem, specialized in heterogeneous memory management. Now I have become one of the community [numactl](https://github.com/numactl/numactl/) and [libhugetlbfs](https://github.com/libhugetlbfs/libhugetlbfs) committer , welcome to communicate.
 - 💬 Ask me about: http://www.starsship.cn/
 - 📫 How to reach me: luochunsheng@ustc.edu
 
