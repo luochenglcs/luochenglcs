@@ -5,10 +5,6 @@
 - 💬 Ask me about: https://www.starsship.cn/  or https://luochenglcs.github.io/
 - 📫 How to reach me: luochunsheng@ustc.edu
 
-### CV:
-- 2019/2 ~ 2023/12,  Huawei,  China Hangzhou, OpenEulerOS
-- 2023/12 ~ present, Tencent, China Shanghai, TencentOS.
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=luochenglcs&include_all_commits=true" />
 </p>
