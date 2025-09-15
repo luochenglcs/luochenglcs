@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a company focused on operating systems
 - 🌱 I’m currently learning linux, and proficient in memory management subsystem, specialized in heterogeneous memory management. Now I have become one of the community [numactl](https://github.com/numactl/numactl/) and [libhugetlbfs](https://github.com/libhugetlbfs/libhugetlbfs) committer , welcome to communicate.
 - 💬 Ask me about: http://www.starsship.cn/  or https://luochenglcs.github.io/
-- 📫 How to reach me: luochunsheng@ustc.edu
+- 📫 How to reach me: luochunsheng@ustc.edu or luffyluo@tencent.com
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=luochenglcs&include_all_commits=true" />
